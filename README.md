@@ -2,7 +2,7 @@
 
 This file contains information about the code for Amanda Kehl's portfolio website.
 
-![gif showing the website created](https://github.com/amandacp-kehl/portfolio/blob/main/Animation.gif)
+![gif showing the website created](https://github.com/amandacp-kehl/portfolio/blob/main/images/Animation.gif)
 
 ## Technologies Used
 
